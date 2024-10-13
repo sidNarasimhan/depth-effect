@@ -20,7 +20,7 @@ pip install requirments.txt
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/parallax-effect-depth-map.git
+   git clone https://github.com/sidNarasimhan/parallax-effect-depth-map.git
    cd parallax-effect-depth-map
    ```
 
