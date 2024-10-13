@@ -69,6 +69,7 @@ python app.py
 
 - Adjust the `max_offset` parameter in the `apply_depth_effect` function call to control the intensity of the parallax effect.
 - Modify the `zoom` factor in the `render_image` function to change the zoom level of the displayed image.
+- Set the `use_mouse` flag to toggle between eye tracking and mouse tracking
 
 ## License
 
