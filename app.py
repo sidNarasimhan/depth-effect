@@ -111,7 +111,7 @@ def main():
     
     running = True
     prev_eye_position = None
-    use_mouse = True  # Flag to switch between eye tracking and mouse movement
+    use_mouse = False  # Flag to switch between eye tracking and mouse movement
     
     while running:
         ret, frame = cap.read()
